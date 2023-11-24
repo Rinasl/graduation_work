@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background: linear-gradient(to right, #005bbf 33.33%, #ffd500 33.33%, #ffd500 66.66%, #005bbf 66.66%);
+        }
+    </style>
+</head>
+<body>
+
+</body>
+</html>
